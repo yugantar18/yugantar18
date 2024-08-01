@@ -8,7 +8,7 @@
 <p align="center">
   🌱 Currently diving deep into <strong>React Native</strong><br/>
   💬 Ask me about <strong>Android, iOS, React Native</strong><br/>
-  📫 Reach out: <strong><a href="mailto:yugantarpaudel0321@gmail.com">yugantarpaudel0321@gmail.com</a></strong>
+  📫 Reach out: <strong><a href="yugantarpaudel0321@gmail.com">yugantarpaudel0321@gmail.com</a></strong>
 </p>
 
 <h3 align="center">📫 Connect with Me:</h3>
