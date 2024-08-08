@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
