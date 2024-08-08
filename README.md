@@ -2,7 +2,7 @@
 <h3 align="center">🚀 React Native App Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugantar07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yugantar18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -53,17 +53,17 @@
 
 <h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yugantar07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yugantar18&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugantar07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yugantar18&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugantar07&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugantar18&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 **Yugantar Paudel**  
 *App Developer | React Native Enthusiast*  
-[GitHub](https://github.com/yugantar07) | [LinkedIn](https://www.linkedin.com/in/yugantar-paudel-55b59a320)
+[GitHub](https://github.com/yugantar18) | [LinkedIn](https://www.linkedin.com/in/yugantar-paudel-55b59a320)
