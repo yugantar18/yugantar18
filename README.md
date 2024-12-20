@@ -66,4 +66,4 @@
 
 **Yugantar Paudel**  
 *App Developer | React Native Enthusiast*  
-[GitHub](https://github.com/yugantar18) | [LinkedIn](https://www.linkedin.com/in/yugantar-paudel-55b59a320)
+[GitHub](https://github.com/yugantar18) | [LinkedIn](https://www.linkedin.com/in/yugantarpaudel18/)
